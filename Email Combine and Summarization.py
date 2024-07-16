@@ -50,8 +50,8 @@ def combine_eml_to_word(folder_path, output_combined, output_summary):
     summary_doc.add_paragraph(summary)
     summary_doc.save(output_summary)
 
-folder_path = '/Users/kavian/Desktop/Scotia/Email Archive'
-output_combined = '/Users/kavian/Desktop/Scotia/combined_emails.docx'
-output_summary = '/Users/kavian/Desktop/Scotia/summary_emails.docx'
+folder_path = 'Path to Email Archive folder'
+output_combined = 'path to output combined_emails.docx'
+output_summary = 'path to output summary_emails.docx'
 
 combine_eml_to_word(folder_path, output_combined, output_summary)
