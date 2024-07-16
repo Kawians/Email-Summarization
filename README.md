@@ -11,3 +11,14 @@ What I have done was not that complicated. The script I wrote goes to the folder
 
 1- It combines all of the emails in one word doc, in order for everyone to be able to go over all of them easily.
 <br>2- Most important, it generates another doc file which includes a summerization of all of the emails on Archive folder. Then anyone who is reaching out to the conversation could be able to understand what is happennig in just one paragraph.
+
+### Technical Aspects
+In order to do this project, the following libraries are implemented:
+<br>
+<br>1- nltk for the NLP process and summarization.
+<br>2- email library to read and parsing the eml (outlook format of email files).
+<br>3- docx in order for generating .docx outputs.
+
+
+### Result:
+The result could be seen by openning combined_emails.docx and summary_emails.docx.
