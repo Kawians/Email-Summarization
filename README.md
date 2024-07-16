@@ -19,6 +19,14 @@ In order to do this project, the following libraries are implemented:
 <br>2- email library to read and parsing the eml (outlook format of email files).
 <br>3- docx in order for generating .docx outputs.
 
+### How to use?
+It's very simple. You only need to pip install email, nltk, and docx.
+<br>Then you need to change the following three lines in the code and put your own local path:
+<br>folder_path = 'Path to Email Archive folder'
+<br>output_combined = 'path to output combined_emails.docx'
+<br>output_summary = 'path to output summary_emails.docx'
+<br>
+<br>and running the script will provide you with the result.
 
 ### Result:
 The result could be seen by openning combined_emails.docx and summary_emails.docx.
