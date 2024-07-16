@@ -10,4 +10,4 @@ Also, what if another person is going to get involved in that chain? It would be
 What I have done was not that complicated. The script I wrote goes to the folder which all of the back and forth emails are stored there and do the following two things:
 
 1- It combines all of the emails in one word doc, in order for everyone to be able to go over all of them easily.
-2- Most important, it generates another doc file which includes a summerization of all of the emails on Archive folder. Then anyone who is reaching out to the conversation could be able to understand what is happennig in just one paragraph.
+<br>2- Most important, it generates another doc file which includes a summerization of all of the emails on Archive folder. Then anyone who is reaching out to the conversation could be able to understand what is happennig in just one paragraph.
